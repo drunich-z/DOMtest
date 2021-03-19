@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange-block {
+  background-color: orange;
+  height: 100vh;
+  
+}
+
+.purple-block {
+  background-color: purple;
+  width: 50%;
+  height: 50%;
+  justify-content: space-around;
+}
+
+.coral-block {
+  width: 25%;
+  height: 25%;
+  background-color: coral;
+  border: 1px solid black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cadetblue {
+    background-color: cadetblue;
+}
